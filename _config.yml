@@ -6,17 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title: M.Su
+brief-intro: CUFE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sumengR.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  sumengRemail: SUmeng97@126.com
+github_username: sumengR
+email: SUmeng97@126.com
 
-dribbble_username:
+
 
 description_footer: 欢迎来到我的blog
 
