@@ -1,4 +1,4 @@
-### This is my blog repo.
+# This is my blog repo.
 **My blog url**: (https://sumengr.github.io/)      
 
 Welcome to visit my blog.      
