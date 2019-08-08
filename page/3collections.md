@@ -9,6 +9,9 @@ type: page
 * content
 {:toc}
 
+### Python
+* [廖雪峰python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
 ### R
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/Rcpp.html)
 
